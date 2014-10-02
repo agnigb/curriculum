@@ -1,0 +1,4 @@
+curriculum
+==========
+
+just an exercise
